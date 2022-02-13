@@ -35,5 +35,12 @@ public class LoginTest extends BaseClass {
 		throw new SkipException("skipping test case");
 		
 	}
+	
+	@Test
+	public void test04(){
+		test=report.createTest("test 03");
+		throw new SkipException("skipping test case");
+		
+	}
 
 }
