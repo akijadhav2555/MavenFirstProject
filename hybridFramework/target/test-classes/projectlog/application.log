@@ -1,0 +1,5 @@
+2022-02-13 08:56:26,084  INFO [main] BaseClass:11 - reading a property file for a keybrowser
+2022-02-13 08:56:26,094  INFO [main] BaseClass:22 - value assigned for the key is found as>>chrome
+2022-02-13 08:56:26,094  INFO [main] BaseClass:25 - intialising browser
+2022-02-13 08:56:28,932  INFO [main] BaseClass:11 - reading a property file for a keyurl
+2022-02-13 08:56:28,933  INFO [main] BaseClass:22 - value assigned for the key is found as>>file:///E:/selenium/javabykiran-Selenium-Softwares/Offline%20Website/index.html
